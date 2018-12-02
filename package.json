@@ -1,5 +1,5 @@
 {
-  "name": "mpvue-entry",
+  "name": "web-entry",
   "version": "1.5.9",
   "description": "集中式页面配置，自动生成各页面的入口文件，优化目录结构，支持新增页面热更新",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/F-loat/mpvue-entry.git"
+    "url": "git+https://github.com/F-loat/web-entry.git"
   },
   "keywords": [
     "mpvue",
@@ -24,9 +24,9 @@
   "author": "F-loat <chaimaoyuan@foxmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/F-loat/mpvue-entry/issues"
+    "url": "https://github.com/F-loat/web-entry/issues"
   },
-  "homepage": "https://github.com/F-loat/mpvue-entry#readme",
+  "homepage": "https://github.com/F-loat/web-entry#readme",
   "devDependencies": {
     "codecov": "^3.0.2",
     "eslint": "^4.19.1",
